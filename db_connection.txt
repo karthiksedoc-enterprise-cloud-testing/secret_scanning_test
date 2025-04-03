@@ -1,0 +1,1 @@
+DBCONNECTIONSTRING=postgresql://production-read.cz5z46dzritc.ap-southeast-2.rds.amazonaws.com
